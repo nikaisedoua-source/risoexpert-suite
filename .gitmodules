@@ -7,6 +7,3 @@
 [submodule "apps/admin"]
 	path = apps/admin
 	url = https://github.com/nikaisedoua-source/risoexpert-admin.git
-[submodule "apps/next"]
-	path = apps/next
-	url = https://github.com/nikaisedoua-source/risoexpert-next.git
