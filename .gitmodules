@@ -1,0 +1,12 @@
+[submodule "apps/public-site"]
+	path = apps/public-site
+	url = https://github.com/nikaisedoua-source/risoexpert-public-site.git
+[submodule "apps/platform"]
+	path = apps/platform
+	url = https://github.com/nikaisedoua-source/risoexpert-platform.git
+[submodule "apps/admin"]
+	path = apps/admin
+	url = https://github.com/nikaisedoua-source/risoexpert-admin.git
+[submodule "apps/next"]
+	path = apps/next
+	url = https://github.com/nikaisedoua-source/risoexpert-next.git
